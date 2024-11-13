@@ -3,7 +3,7 @@
     margin: 0;
 }
 .titulo{
-    height: 200px;
+    height: 100px;
     background-color: green;
     display: flex;
     flex-direction: row;
@@ -19,7 +19,7 @@
 .rodape{
     display: flex;
     justify-content: space-between;
-    height: 200px;
+    height: 100px;
 }
 #div1{
     background-color: aqua;
